@@ -1,2 +1,2 @@
 #MyApp
-This is a Github profile search
+Github profile application using the github API.Users can search profiles and see data about each user.
